@@ -4,58 +4,58 @@
 
 ---
 
-### 👨‍💻 Acerca de mi perfil
-Estudiante de Licenciatura enfocado en el desarrollo backend, infraestructura de redes y ciberseguridad. Me dedico a crear herramientas que resuelvan problemas reales de infraestructura y automatización.
+### 👨‍💻 Acerca de mí
+Estudiante de Licenciatura en Sistemas enfocado en el desarrollo backend, infraestructura de redes y seguridad informática. Actualmente trabajo en soluciones de automatización y monitoreo.
 
-> 📍 Basado en Concordia, Entre Ríos, Argentina.
-
-### 🛠️ Stack Tecnológico
-
-<details>
-  <summary><b>Foco Principal: Java & Python (Clic para expandir)</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>Bases de Datos & Datos (Clic para expandir)</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>Infraestructura & Herramientas (Clic para expandir)</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>Básicos & Aprendiendo: Front-End (Clic para expandir)</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</details>
+* 📍 Concordia, Entre Ríos, Argentina.
+* 🎓 **Certificación en Ciberseguridad** obtenida.
+* 🚀 Desarrollando **NetWatch**: un dashboard con FastAPI para escaneo de puertos, análisis de cabeceras de seguridad y detección de vulnerabilidades como SQL Injection.
 
 ---
 
-### 📌 Sobre mí
+### 🛠️ Stack Tecnológico
 
-* 🔭 Actualmente profundizando mis conocimientos en **Java y Spring Boot**, y aplicándolos al desarrollo backend.
-* 🌱 Estudiando bases de datos y seguridad de la información.
-* ⚡ Interesado en el monitoreo de redes y la automatización con Python.
-* ✨ Dando mis primeros pasos en el desarrollo Front-End con JavaScript.
+**Lenguajes y Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### 📊 Estadísticas de GitHub
+**Sistemas Operativos y Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+**Front-End (Aprendiendo)**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benjamim023&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim023&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
 </div>
 
-### 📬 Contacto
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+### 📬 Contacto
+<p align="left">
+  <a href="https://www.instagram.com/_benjamin__0/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:benjaminaquino_13@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="TU_LINKEDIN_AQUÍ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
