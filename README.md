@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Benjamín</h1>
-<h3 align="center">Software Engineering Student | Backend Developer</h3>
+<h3 align="center">Estudiante de Licenciatura en Sistemas | Desarrollador Backend</h3>
 
 ---
 
@@ -40,8 +40,8 @@ Estudiante de Licenciatura en Sistemas enfocado en el desarrollo backend, infrae
 
 ### 📊 Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benjamim023&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim023&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Benjamim023&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim023&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
