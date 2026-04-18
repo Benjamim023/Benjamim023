@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hola,+soy+Benjamín;Software+Engineering+Student;Backend+Developer+%26+Network+Enthusiast" alt="Typing SVG" />
-</div>
+<h1 align="center">Hola, soy Benjamín</h1>
+<h3 align="center">Software Engineering Student | Backend Developer</h3>
 
 ---
 
@@ -55,7 +54,7 @@ Estudiante de Licenciatura en Sistemas enfocado en el desarrollo backend, infrae
   <a href="mailto:benjaminaquino_13@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="TU_LINKEDIN_AQUÍ">
+  <a href="https://www.linkedin.com/in/benjamin-aquino-73b6a0363">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
