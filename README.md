@@ -40,8 +40,8 @@ Estudiante de Licenciatura en Sistemas enfocado en el desarrollo backend, infrae
 
 ### 📊 Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benjamim023&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim023&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Benjamim023&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim023&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
